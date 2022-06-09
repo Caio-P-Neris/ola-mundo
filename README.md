@@ -1,2 +1,3 @@
-# ola mundo
- Primeiro Repositório do curso de git 
+# Olá, mundo!
+ Primeiro Repositório de git
+ Estou testando ele 
